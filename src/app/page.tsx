@@ -9,7 +9,7 @@ export default function Home() {
           sizes: "(max-width: 500px) 100vw, 500px",
           srcSet:
             "https://www.datocms-assets.com/174347/1759255105-example-image.jpg?dpr=0.25&h=500&w=500 125w,https://www.datocms-assets.com/174347/1759255105-example-image.jpg?dpr=0.5&h=500&w=500 250w,https://www.datocms-assets.com/174347/1759255105-example-image.jpg?dpr=0.75&h=500&w=500 375w,https://www.datocms-assets.com/174347/1759255105-example-image.jpg?dpr=2&h=500&w=500 500w,https://www.datocms-assets.com/174347/1759255105-example-image.jpg?dpr=1.5&h=500&w=500 750w,https://www.datocms-assets.com/174347/1759255105-example-image.jpg?dpr=2&h=500&w=500 1000w",
-          src: "https://www.datocms-assets.com/174347/1759255105-example-image.jpg?dpr=2&h=500&w=500",
+          src: "https://www.datocms-assets.com/174347/1759255105-example-image.jpg?dpr=1&h=500&w=500",
           aspectRatio: 1,
           base64:
             "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBg4ICAgVDw0LDhEPDQ0NDhkNDQ0SFxMZGBYTFhUmHysjGh0oKSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHA0NHS8cFhwzLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAABAMFBgH/xAAeEAACAgEFAQAAAAAAAAAAAAAAAwECEQQFEhUxIf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBAyIS/9oADAMBAAIRAxEAPwDS2fNVfIFq662cYH9OurF4mCbrlRHLBHuSOinU2RaXclZmDgxqFUorEQAutY5DO2ivpu6l+DvcLsoABXzoXVGSFu5LusAAUkzyGeNH/9k=",
