@@ -60,9 +60,8 @@ export default function Home() {
         </p>
         <div
           style={{ width: 700, height: 700, backgroundColor: "darkgreen" }}
-          dangerouslySetInnerHTML={{
-            __html: `
-          <noscript>
+        >
+          <noscript dangerouslySetInnerHTML={{__html: `
             <h3>As an image SRC</h3>
             <img src="${responsiveImage.src}" alt="" />
 
@@ -71,10 +70,8 @@ export default function Home() {
 
             <h3>As a data attribute</h3>
             <div data-test="${responsiveImage.src}">As data attribute (inspect this dev)</div>
-          </noscript>
-          `
-          }}
-        />
+          `}}/>
+        </div>
       </main>
     </div>
   );
